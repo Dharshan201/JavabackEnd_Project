@@ -7,6 +7,7 @@ public class SampleEntity {
 		System.out.println("Welcome...");
 		System.out.println("Hello ");
 		System.out.println("hi");
+		System.out.println("Hello team");
 	}
 
 }
